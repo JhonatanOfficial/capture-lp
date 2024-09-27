@@ -1,27 +1,27 @@
-# CaptureWebsite
+![Imagem do Aplicativo](/public/app.png)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.5.
 
-## Development server
+# Capture Lp
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Description
+This project was developed based on a prototype created in **Figma**, which served as the foundation for the user interface and experience. The prototype was designed to ensure intuitive navigation and an appealing layout, facilitating the implementation of functionalities and styles in Angular. The goal was to transform the design vision into a functional application while maintaining the aesthetics and usability defined in the prototype.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Technologies Used
+- [Angular](https://angular.io/) - A platform and framework for building single-page client applications using HTML and TypeScript.
+- [TypeScript](https://www.typescriptlang.org/) - A superset of JavaScript that adds static typing, enhancing code quality and maintainability.
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for creating custom designs without having to leave your HTML.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Installation
+To get started with the Awwwards Menu App, clone the repository and install the necessary dependencies:
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+```bash
+npm install
+```
